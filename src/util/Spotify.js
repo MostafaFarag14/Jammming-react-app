@@ -1,5 +1,5 @@
 const clientID = 'cdf6e106591f4dfeb983b9e3b2edc6fa'
-const redirectURI = 'http://jammming-hits.surge.sh'
+const redirectURI = 'https://jammming-hits.herokuapp.com/'
 let token
 export const Spotify = {
     getAccessToken() {
