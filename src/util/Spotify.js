@@ -1,5 +1,5 @@
 const clientID = 'cdf6e106591f4dfeb983b9e3b2edc6fa'
-const redirectURI = 'https://jammming-hits.herokuapp.com/'
+const redirectURI = 'https://jammming-hits.netlify.com//'
 let token
 export const Spotify = {
     getAccessToken() {
